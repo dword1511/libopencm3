@@ -44,6 +44,7 @@ OBJS            += rcc_common_all.o
 OBJS            += gpio_common_all.o gpio_common_f0234.o
 OBJS            += usart_common_all.o
 OBJS            += spi_common_all.o spi_common_f03.o
+OBJS            += dma_common_l1f013.o
 OBJS            += adc_common_v2.o adc_common_v2_multi.o
 OBJS            += rng_common_v1.o
 OBJS            += timer_common_all.o
