@@ -43,7 +43,6 @@ OBJS		= adc.o flash.o pwr.o rcc.o usart.o
 # common/shared objs
 OBJS            += rcc_common_all.o
 OBJS            += gpio_common_all.o gpio_common_f0234.o
-OBJS            += usart_common_all.o
 OBJS            += spi_common_all.o spi_common_f03.o
 OBJS            += dma_common_l1f013.o
 OBJS            += adc_common_v2.o adc_common_v2_multi.o
